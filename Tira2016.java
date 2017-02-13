@@ -7,7 +7,7 @@
  * Class tira2016
  *
  * Contains the main method, interacts with FileMod, MinHeap and Command classes
- * to initialize and modify a priority queue from an input text file containing commands, 
+ * to initialize and modify a priority queue (constructed in a heap-structure) from an input text file containing commands, 
  * and then writes down the results in an output text file.
  *
  */
